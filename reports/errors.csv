@@ -1,0 +1,24 @@
+transaction_id,description,mcc,category,pred_category,confidence,source
+327,POKUPKA AROMAMANIYA VORONEZH,,Красота и уход,Путешествия,0.2128317306495425,ml
+333,POKUPKA KVEST-HAUS ROSTOV-NA-DONU,,Развлечения,Путешествия,0.37613309504678205,ml
+274,OKKO,,Развлечения,Прочее,1.0,llm
+313,POS ZOLOTOE YABLOKO,,Красота и уход,Продукты,0.3443704816207664,ml
+297,SLATA SANKT-PETERBURG RUS,,Продукты,Транспорт,1.0,llm
+299,POKUPKA SLATA ROSTOV-NA-DONU,,Продукты,Путешествия,0.35968049007084885,ml
+336,BATON SAMARA RUS,,Кафе и рестораны,Транспорт,1.0,llm
+317,OPLATA FAMILIA,,Одежда и обувь,Продукты,0.34959519171532694,ml
+318,VERNYY*348690,,Продукты,Прочее,1.0,llm
+175,POKUPKA SPAAR KRASNOYARSK,,Продукты,Дом и ремонт,0.39088168131313406,ml
+287,POS FARMAPLYUS,,Здоровье,Развлечения,0.3731365604870561,ml
+272,OPLATA MEBBEL PLYUS,,Дом и ремонт,Развлечения,0.7189117915418622,ml
+289,OPLATA TOVAROV TAKSOVICHKOF,,Транспорт,Переводы,1.0,llm
+210,MUM-U NIZHNIY NOVGOROD RUS,,Кафе и рестораны,Путешествия,0.204336289388834,ml
+273,OPLAA KOFEPORT,,Кафе и рестораны,Прочее,1.0,llm
+302,TERMINAL 934548 VERNYY ROSTOV-NA-DONU,,Продукты,Путешествия,0.32456864910543776,ml
+251,POS TVOOE,,Одежда и обувь,Продукты,0.2520317600517299,ml
+307,OPLATA NORDWIND,,Путешествия,Продукты,0.34959519171532694,ml
+321,Skyeng абонентская плата,,Образование,ЖКХ и связь,0.6012165365432538,ml
+256,OPLATA TOVAROV BILAYN RIITEYL,5734.0,Электроника и техника,ЖКХ и связь,1.0,rule_merchant
+296,OKKO,,Развлечения,Прочее,1.0,llm
+271,OPLATA LABDIAGNOSTIKA,,Здоровье,Продукты,0.3187104253041769,ml
+334,OPLATA ZZOLOTOE YABLOKO,,Красота и уход,Продукты,0.34959519171532694,ml

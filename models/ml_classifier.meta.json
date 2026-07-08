@@ -1,0 +1,10 @@
+{
+  "threshold": 0.2,
+  "C": 5.0,
+  "char_ngram": [
+    4,
+    6
+  ],
+  "val_accuracy_at_threshold": 0.3736877109820015,
+  "val_coverage_at_threshold": 0.7913701085169947
+}
