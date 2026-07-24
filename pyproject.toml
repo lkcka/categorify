@@ -10,7 +10,18 @@ requires-python = ">=3.10"
 dependencies = [
     "pandas>=2.0",
     "numpy>=1.24",
+    "scikit-learn>=1.3",
+    "joblib>=1.3",
+    "httpx>=0.27",
 ]
+
+[project.scripts]
+expense-categorizer-generate = "expense_categorizer.generator:main"
+expense-categorizer-golden = "expense_categorizer.golden:main"
+expense-categorizer-train = "expense_categorizer.train_ml:main"
+expense-categorizer-evaluate = "expense_categorizer.evaluate:main"
+expense-categorizer-categorize = "expense_categorizer.categorize:main"
+expense-categorizer-stats = "expense_categorizer.data_stats:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
